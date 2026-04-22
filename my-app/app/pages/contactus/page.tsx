@@ -63,7 +63,7 @@ export default function ContactUs() {
 
       </div>
 
-      <div className="flex flex-col items-center">
+      < /* BODY */ div className="flex flex-col items-center">
           <div className="bg-[url('https://www.shutterstock.com/image-photo/drone-view-rural-area-araucaria-600w-2569925907.jpg')] w-300 h-30 bg-cover bg-top"></div>
 
           <div className="flex justify-items-center mt-5">

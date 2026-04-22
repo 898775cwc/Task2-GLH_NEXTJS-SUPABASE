@@ -170,8 +170,6 @@ export default function Products() {
         </div>
         </div>
 
-
-
       </div>
 
       < /*FOOTER*/ div className="flex flex-col mt-50">
