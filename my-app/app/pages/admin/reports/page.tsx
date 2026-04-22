@@ -1,3 +1,4 @@
+/* Page full of potential reports for the farmer to fill in. All the links do not work, but are there to showcase potential */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

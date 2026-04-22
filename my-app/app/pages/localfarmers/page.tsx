@@ -1,3 +1,4 @@
+/* Page that provides information on the local farmers registered to GLH and the general information encouraging potential farmers to join the centralised platform + a button to register as a farm */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

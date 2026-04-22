@@ -1,3 +1,4 @@
+/* Page for farmers to add their products to display on the customer end of the platform. This would contribute to adding stock too */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

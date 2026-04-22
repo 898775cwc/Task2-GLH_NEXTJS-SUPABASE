@@ -1,3 +1,4 @@
+/* Page for farmers to register */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

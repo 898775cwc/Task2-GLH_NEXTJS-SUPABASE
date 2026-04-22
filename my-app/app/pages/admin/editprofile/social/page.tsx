@@ -1,3 +1,4 @@
+/* Page for farmers to add their social media to their profile for extra reach or a more centralised place for information */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

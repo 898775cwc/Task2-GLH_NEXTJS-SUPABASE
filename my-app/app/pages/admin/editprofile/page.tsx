@@ -1,3 +1,4 @@
+/* Page for farmers to edit their enterprise's details - specifically the primary details for this page */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

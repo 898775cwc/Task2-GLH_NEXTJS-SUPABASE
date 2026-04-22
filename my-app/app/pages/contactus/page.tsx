@@ -1,3 +1,4 @@
+/* Contact us page that allows for customers to send their feedback or enquires to GLH via the form provided or the contact information displayed */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

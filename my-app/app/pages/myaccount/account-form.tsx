@@ -1,3 +1,4 @@
+/* Account page for the customer to manage any information and keep track of order/shipping details */
 'use client'
 import { useCallback, useEffect, useState } from 'react'
 import { createClient } from '@/lib/supabase/client'

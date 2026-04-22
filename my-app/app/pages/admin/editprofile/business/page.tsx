@@ -1,3 +1,4 @@
+/* Page for farmers to edit business details such as the address of the enterprise/farm and legal information pertaining to the legitimacy of the company */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

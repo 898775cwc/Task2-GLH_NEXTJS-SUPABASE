@@ -1,3 +1,4 @@
+/* Register page for the client */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

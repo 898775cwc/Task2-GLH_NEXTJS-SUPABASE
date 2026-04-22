@@ -1,3 +1,4 @@
+/* Page for users to view their transactions */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

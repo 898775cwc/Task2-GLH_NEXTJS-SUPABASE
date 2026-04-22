@@ -1,3 +1,5 @@
+/* Page for farmers to manage their enterprise or add more */
+
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

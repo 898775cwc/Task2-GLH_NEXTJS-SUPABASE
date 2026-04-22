@@ -1,3 +1,4 @@
+/* Checkout for customers ready to buy products */
 import Image from "next/image";
 
 import { IoPricetagOutline } from "react-icons/io5";

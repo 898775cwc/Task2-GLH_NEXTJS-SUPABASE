@@ -1,3 +1,4 @@
+/* Page for customers to update or view their shipping address and/or billing address */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

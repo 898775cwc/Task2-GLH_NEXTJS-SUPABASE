@@ -1,3 +1,4 @@
+/* Products page that showcases the amount of stock there is for each categor of goods */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

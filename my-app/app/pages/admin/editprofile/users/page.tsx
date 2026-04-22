@@ -1,3 +1,4 @@
+/* Page for farmers to add more users chosen to manage certain parts of the account - permission rights */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

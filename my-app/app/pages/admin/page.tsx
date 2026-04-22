@@ -1,3 +1,4 @@
+/* Access to the admn panel once farmers are logged in or signed up */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

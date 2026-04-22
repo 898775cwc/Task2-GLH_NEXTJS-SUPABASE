@@ -1,3 +1,4 @@
+/* Page for customers to store their payment types in the form of cards */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

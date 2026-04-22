@@ -1,3 +1,4 @@
+/* Page for customers to see the progress of their orders or if they have made any or the history */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

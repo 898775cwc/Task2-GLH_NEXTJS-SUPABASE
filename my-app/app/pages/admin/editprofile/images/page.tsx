@@ -1,3 +1,4 @@
+/* Page for farmers to to add necessary images such as logos or banners */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

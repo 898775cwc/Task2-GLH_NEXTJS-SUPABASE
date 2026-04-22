@@ -1,3 +1,4 @@
+/* Page for farmers to add their contact information for customers */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";

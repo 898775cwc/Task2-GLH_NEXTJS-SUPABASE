@@ -51,7 +51,7 @@ export default function About() {
             
           
             < /*ICONS*/ div className="flex items-center ml-25">
-              < /*would need its own popup*/ FaShoppingBasket className="text-2xl mr-2" />
+              <FaShoppingBasket className="text-2xl mr-2" />
               <a href="/pages/register"><CgProfile className="text-2xl mr-2" /></a>
               <a href="/pages/search"><FaSearch className="text-xl" /></a>
             </div>
@@ -94,14 +94,14 @@ export default function About() {
         <div className="flex">
 
           < /*Logo and address*/ div className="mr-80">
-          <img src="https://i.ibb.co/B2qj72Zs/GLHLogo.png" alt="Greenfield Local Hub Logo" className="h-15 mb-2" />
-          <p className="font-bold text-sm">Address:<br></br></p>
-          <p className="text-xs mb-2">123 Main Street, City<br></br>Scotland, United Kingdom</p>
-          < /*Social media icons*/ div className="flex">
-            <FaInstagram className="mr-2" />
-            <RiTwitterXFill className="mr-2" />
-            <FaFacebook />
-          </div>       
+            <img src="https://i.ibb.co/B2qj72Zs/GLHLogo.png" alt="Greenfield Local Hub Logo" className="h-15 mb-2" />
+            <p className="font-bold text-sm">Address:<br></br></p>
+            <p className="text-xs mb-2">123 Main Street, City<br></br>Scotland, United Kingdom</p>
+            < /*Social media icons*/ div className="flex">
+              <FaInstagram className="mr-2" />
+              <RiTwitterXFill className="mr-2" />
+              <FaFacebook />
+            </div>       
           </div>
 
           < /*Sitemap links*/ div>

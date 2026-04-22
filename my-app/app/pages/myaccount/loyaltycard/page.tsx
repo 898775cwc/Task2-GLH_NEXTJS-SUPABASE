@@ -1,3 +1,4 @@
+/* Page for customers to see their loyalty card and how many points they have until  reward is given */
 import Image from "next/image";
 
 import { CgProfile } from "react-icons/cg";
