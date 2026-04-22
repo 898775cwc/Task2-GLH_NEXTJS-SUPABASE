@@ -61,7 +61,7 @@ export default function BusinessDetails() {
         <hr className="w-screen border border-neutral-200" />
 
         <div className="flex mt-5">
-          < /*LEFT SECTION GREY*/ div className="bg-gray-100 rounded-xl p-5">
+          < /*LEFT SECTION GREY*/ div className="bg-gray-100 h-72 rounded-xl p-5">
             < /*CONTENT*/ div className="flex flex-col">
               <p className="text-2xl mt-2 mb-3">Settings: Placeholder</p>
               <a href="/pages/admin/editprofile" className="text-xl">Primary Details</a>
