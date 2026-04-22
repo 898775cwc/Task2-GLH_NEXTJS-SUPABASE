@@ -51,7 +51,7 @@ export default function Products() {
             
           
             <div className="flex items-center ml-25">
-              < /*would need its own popup*/ FaShoppingBasket className="text-2xl mr-2" />
+              <a href="/pages/checkout"><FaShoppingBasket className="text-2xl mr-2" /></a>
               <a href="/pages/register"><CgProfile className="text-2xl mr-2" /></a>
               <a href="/pages/search"><FaSearch className="text-xl" /></a>
             </div>
