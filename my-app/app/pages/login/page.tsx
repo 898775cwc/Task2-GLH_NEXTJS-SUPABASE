@@ -83,7 +83,9 @@ export default function Login() {
         </div>
         <input type="password" placeholder="Password" className="border border-solid border-black mb-2 w-100 rounded-sm" />
 
-        <button className="bg-winery text-white px-4 py-2 w-35 mt-5 rounded-sm hover:bg-customFore" formAction={login}>Login</button>
+        <a href="/pages/myaccount">
+          <button className="bg-winery text-white px-4 py-2 w-35 mt-5 rounded-sm hover:bg-customFore" formAction={login}>Login</button>
+        </a>
 
         <p className="mt-3 text-xs">Don't have an account? <a href="/pages/register" className="text-winery hover:underline">Register here</a></p>
       </div>

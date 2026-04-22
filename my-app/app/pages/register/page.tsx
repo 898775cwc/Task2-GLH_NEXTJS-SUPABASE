@@ -100,7 +100,9 @@ export default function Register() {
         </div>
         <input type="password" id="password" placeholder="Enter your Password" className="border border-solid border-black mb-2 w-100 rounded-sm" />
 
-        <button className="bg-winery text-white px-4 py-2 w-35 mt-5 rounded-sm hover:bg-customFore" formAction={signup}>Register</button>
+        <a href="/pages/myaccount">
+          <button className="bg-winery text-white px-4 py-2 w-35 mt-5 rounded-sm hover:bg-customFore" formAction={signup}>Register</button>
+        </a>
 
         <p className="mt-3 text-xs">Already have an account? <a href="/pages/login" className="text-winery hover:underline">Login here</a></p>
         <p className="text-xs">By continuing, you agree to our <a href="/terms" className="text-winery hover:underline">Terms of Service</a> and <a href="/privacy" className="text-winery hover:underline">Privacy Policy</a>.</p>
