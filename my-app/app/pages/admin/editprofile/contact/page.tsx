@@ -76,7 +76,7 @@ export default function Contact() {
           </div>
 
           < /* RIGHT SECTION*/ div className="ml-10 flex flex-col w-100">
-            <h1 className="text-3xl">Primary Details</h1>
+            <h1 className="text-3xl">Contact Information</h1>
 
             <div className="flex items-center justify-between mt-5">
 
